@@ -1,6 +1,6 @@
 # Project Scaffolding Checklist
 
-- [ ] Vite + Vue + TypeScript
+- [X] Vite + Vue + TypeScript
 - [ ] Tailwind + PostCSS
 - [ ] SVG.js
 - [ ] Cypress
