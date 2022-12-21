@@ -1,9 +1,9 @@
 # Project Scaffolding Checklist
 
-- [X] Vite + Vue + TypeScript
-- [ ] Tailwind + PostCSS
+- [X] Vite + React + TypeScript
 - [ ] SVG.js
-- [ ] Cypress
+- [ ] Tailwind + PostCSS
+- [ ] Playwright
 - [ ] Vitest
 - [ ] .gitignore
 - [ ] License
