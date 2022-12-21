@@ -1,7 +1,7 @@
 # Project Scaffolding Checklist
 
 - [X] Vite + React + TypeScript
-- [ ] Tailwind + PostCSS
+- [X] Tailwind + PostCSS
 - [ ] Playwright
 - [ ] Vitest
 - [ ] .gitignore
