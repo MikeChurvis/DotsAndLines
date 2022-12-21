@@ -1,7 +1,6 @@
 # Project Scaffolding Checklist
 
 - [X] Vite + React + TypeScript
-- [ ] SVG.js
 - [ ] Tailwind + PostCSS
 - [ ] Playwright
 - [ ] Vitest
