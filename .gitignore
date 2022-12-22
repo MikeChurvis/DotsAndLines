@@ -25,4 +25,8 @@ dist-ssr
 
 # Vitest artifacts
 coverage
-__snapshots__
+
+# Playwright artifacts
+/test-results/
+/playwright-report/
+/playwright/.cache/
