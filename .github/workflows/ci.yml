@@ -38,7 +38,6 @@ jobs:
         with:
           name: coverage
           path: coverage/
-          retention-days: 30
 
   playwright:
     name: Integration Tests (playwright)
@@ -67,10 +66,9 @@ jobs:
       - name: Run Playwright tests
         run: pnpm dlx playwright test
       
-      - name: Save report for the next month
+      - name: Save report
         uses: actions/upload-artifact@v3
         if: always()
         with:
           name: playwright-report
           path: playwright-report/
-          retention-days: 30
