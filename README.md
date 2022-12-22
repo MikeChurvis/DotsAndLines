@@ -19,7 +19,7 @@ Tests
 
 ### Minimum Viable Product (0.1)
 
-- [ ] Project scaffolded (see [checklist](docs/ScaffoldingChecklist.md)).
+- [X] Project scaffolded (see [checklist](docs/ScaffoldingChecklist.md)).
 - [ ] Data structures in place (see [data sketch](docs/DataAndState.md)).
 - [ ] Data operations in place (add/move/delete dot, add/remove line).
 - [ ] Dots on screen.
