@@ -2,9 +2,8 @@
 
 - [X] Vite + React + TypeScript
 - [X] Tailwind + PostCSS
+- [X] Vitest
 - [ ] Playwright
-- [ ] Vitest
-- [ ] .gitignore
 - [ ] License
 - [ ] GitHub Pages
 - [ ] Test runner CI pipeline

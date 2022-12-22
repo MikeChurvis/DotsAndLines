@@ -19,6 +19,17 @@ Line mode:
 - With a dot selected, Left-Click a different dot to draw a line between them.
 - Right-Click a line to remove it.
 
+## Stack
+
+Frontend
+- Vite
+- React
+- TypeScript
+
+Tests
+- Vitest
+- Playwright
+
 ## Versions
 
 ### Minimum Viable Product (0.1)
