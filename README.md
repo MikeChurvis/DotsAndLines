@@ -1,23 +1,8 @@
 # Dots and Lines
 
+[![Continuous Integration](https://github.com/MikeChurvis/DotsAndLines/actions/workflows/ci.yml/badge.svg)](https://github.com/MikeChurvis/DotsAndLines/actions/workflows/ci.yml)
+
 An unordered graph plotter with extra steps.
-
-## Modes
-
-Image mode:
-- Left-Click + Drag to move image.
-- Right-Click image to remove it.
-- Left-Click + Drag image corner handle to resize image.
-
-Dot mode: 
-- Left-Click to place a dot.
-- Left-Click + Drag a dot to move it. 
-- Right-Click a dot to remove it.
-
-Line mode:
-- Left-Click a dot to select it.
-- With a dot selected, Left-Click a different dot to draw a line between them.
-- Right-Click a line to remove it.
 
 ## Stack
 
