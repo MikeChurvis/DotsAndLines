@@ -88,7 +88,6 @@ jobs:
       - run-vitest
       - run-playwright
     steps:
-      steps:
       - uses: actions/checkout@v3
 
       - name: Install pnpm
